@@ -1,1 +1,1 @@
-[# test](https://edzsuki.github.io)
+https://edzsuki.github.io
