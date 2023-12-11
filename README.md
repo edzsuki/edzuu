@@ -1,1 +1,1 @@
-https://edzsuki.github.io/test/
+https://edzsuki.github.io/edzuu/
